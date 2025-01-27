@@ -1,0 +1,6 @@
+2025-01-27 08:17:24,365 - INFO - Downloaded https://example.com/sample1.jpg to downloads\temp\sample1.jpg
+2025-01-27 08:17:25,772 - INFO - Downloaded https://example.com/sample2.pdf to downloads\temp\sample2.pdf
+2025-01-27 08:17:25,779 - INFO - Moved sample1.jpg to downloads\organized\images
+2025-01-27 08:17:25,782 - INFO - Moved sample2.pdf to downloads\organized\documents
+2025-01-27 08:17:25,782 - INFO - File organization completed successfully.
+2025-01-27 08:17:25,795 - INFO - Metadata extracted to downloads\organized\metadata.csv
